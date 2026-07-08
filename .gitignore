@@ -1,0 +1,5 @@
+# Arduino credentials — never commit
+arduino_secrets.h
+**/arduino_secrets.h
+secrets.h
+**/secrets.h
