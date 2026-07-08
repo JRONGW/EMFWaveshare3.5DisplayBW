@@ -1,0 +1,5 @@
+# Fixes "invalid option ZigbeeMode" when Arduino IDE caches board options from a newer ESP32 core.
+menu.ZigbeeMode=Zigbee Mode
+
+# Highlight the Waveshare / squareline_emf partition scheme in Tools menu.
+esp32s3.menu.PartitionScheme.app3M_fat9M_16MB=>>> USE THIS: 16M Flash (3MB APP/9.9MB FATFS)

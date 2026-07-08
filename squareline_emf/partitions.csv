@@ -1,0 +1,7 @@
+# 16MB flash: 4.25MB APP + 11.4MB FATFS (no OTA) for SquareLine UI assets
+# Name,   Type, SubType, Offset,  Size, Flags
+nvs,      data, nvs,     0x9000,  0x5000,
+phy_init, data, phy,     0xf000,  0x1000,
+factory,  app,  factory, 0x10000, 0x440000,
+ffat,     data, fat,     0x450000,0xBA0000,
+coredump, data, coredump,0xFF0000,0x10000,

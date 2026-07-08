@@ -1,0 +1,4 @@
+-DESP32
+-DCONFIG_IDF_TARGET_ESP32S3=1
+-DCORE_DEBUG_LEVEL=0
+-DLV_CONF_PATH="C:/Users/58418/Downloads/squareline_emf/lv_conf.h"

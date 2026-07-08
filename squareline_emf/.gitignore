@@ -1,0 +1,16 @@
+# Local WiFi / MQTT / Influx credentials (copy from arduino_secrets.h.example)
+arduino_secrets.h
+secrets.h
+
+
+# Arduino build output
+build/
+*.elf
+*.bin
+*.map
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-07-04T14:45:48Z",
+  "source": "rtlsdr",
+  "sample_rate_hz": 2400000,
+  "center_frequency_MHz": 895.0,
+  "peak_frequency_MHz": 84.9,
+  "peak_power_dB": 27.2,
+  "band_powers_dB": {
+    "FM Radio": null,
+    "Weather Radio": null,
+    "Aviation VHF": null,
+    "ISM": null,
+    "UHF Television": -11.1,
+    "Cellular GSM": -4.7,
+    "Aircraft ADS-B": null
+  }
+}

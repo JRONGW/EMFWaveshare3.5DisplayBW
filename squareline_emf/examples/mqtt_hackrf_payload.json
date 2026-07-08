@@ -1,0 +1,21 @@
+{
+  "device": "hackrf_one",
+  "timestamp": 1783176361,
+  "timestamp_iso": "2026-07-04T14:46:01Z",
+  "frequency_range_start_MHz": 2000,
+  "frequency_range_stop_MHz": 6000,
+  "rf_gain_dB": 22.9,
+  "label": "hackrf_sweep_spectrum",
+  "measurement_type": "hackrf_one",
+  "note": "Relative spectrum only, not calibrated dBm",
+  "band_powers_dB": {
+    "5G Cellular": -9.28,
+    "5G NR": -8.92,
+    "WiFi 5 GHz": -8.87
+  },
+  "peak_frequency_MHz": 2001,
+  "peak_power_relative_dB": 54.82,
+  "noise_floor_relative_dB": -8.07,
+  "snr_dB": 62.89,
+  "band_power_relative_dB": 12.56
+}

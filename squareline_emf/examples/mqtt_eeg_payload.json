@@ -1,0 +1,30 @@
+{
+  "device": "mindwave_01",
+  "timestamp": 1782913634,
+  "timestamp_iso": "2026-07-01T13:47:14Z",
+  "label": "eeg_tgam",
+  "measurement_type": "mindwave_tgam",
+  "port": "/dev/ttyACM0",
+  "baud": 57600,
+  "receiving": false,
+  "attention": 0,
+  "meditation": 0,
+  "poor_signal": 55,
+  "asic_bands": {
+    "delta": 976629,
+    "theta": 187873,
+    "low_alpha": 112044,
+    "high_alpha": 477359,
+    "low_beta": 213513,
+    "high_beta": 111898,
+    "low_gamma": 83093,
+    "mid_gamma": 87383
+  },
+  "fft_bands": {
+    "delta": 0.0348,
+    "theta": 0.0097,
+    "alpha": 0.011,
+    "beta": 0.0031,
+    "gamma": 0.004
+  }
+}
